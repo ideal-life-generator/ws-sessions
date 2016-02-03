@@ -4,7 +4,7 @@ Used with [ws-session](https://www.npmjs.com/package/ws-session) on the client.
 
 Donate: 5300 7211 1281 6316
 
-## *Full session for your browser connection.*
+## *Full session for browser connection.*
 
 In progress.
 
