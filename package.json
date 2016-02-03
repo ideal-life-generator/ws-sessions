@@ -1,0 +1,40 @@
+{
+  "author": {
+    "email": "timetoburnfire@gmail.com",
+    "name": "Vladislav Tkachenko"
+  },
+  "bugs": {
+    "email": "wssessions.sup@gmail.com",
+    "url": "https://github.com/timetoburnfire/ws-sessions/issues"
+  },
+  "dependencies": {
+    "cookie": "^0.2.3",
+    "shortid": "^2.2.4"
+  },
+  "description": "To work with a socket sessions.",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/timetoburnfire/ws-sessions#readme",
+  "keywords": [
+    "session",
+    "sessions",
+    "web socket",
+    "ws",
+    "ws-session",
+    "ws-sessions"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "timetoburnfire",
+      "email": "timetoburnfire@gmail.com"
+    }
+  ],
+  "name": "ws-sessions",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timetoburnfire/ws-sessions.git"
+  },
+  "version": "0.0.1"
+}
